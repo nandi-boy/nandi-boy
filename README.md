@@ -83,19 +83,6 @@
 </p>
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandi-boy&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandi-boy&theme=tokyonight" alt="streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandi-boy&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
----
 
 ## ✨ Quote
 
