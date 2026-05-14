@@ -19,5 +19,4 @@
 ![](https://streak-stats.demolab.com/?user=nandi-boy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nandi-boy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=nandi-boy&icon=2&color=0)](https://visitcount.itsvg.in)
+
