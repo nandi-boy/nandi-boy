@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+a+Coder;I'm+a+Problem+Solver;I'm+a+Python+Enthusiast;I'm+a+Computer+Science+Student" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <a href="mailto:prithhibnandi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prithhibnandi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 🚀 Interested in Data science, Machine Learning, and Data Analysis.<br>💻 Passionate about coding and problem solving.<br>🌱 Always learning new technologies and improving my skills.
 
