@@ -18,7 +18,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=nandi-boy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nandi-boy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nandi-boy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## 🐍 My Contributions
+##  My Contributions
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandi-boy/nandi-boy/output/github-snake-dark.svg" />
